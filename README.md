@@ -15,7 +15,6 @@ I'm a passionate **Computer Science Student** | **Web Developer** | **AI/ML Enth
 - 🏍️ **Bike Rider**: Completed Mustang ride in Nepal & planning a Ladakh trip
 - 💪 **Gym Enthusiast** with 170kg deadlift
 - 🌱 Currently learning: **AI/ML, Web Development & DSA**
-
 ---
 
 ## 🛠️ Tech Stack
@@ -26,6 +25,13 @@ I'm a passionate **Computer Science Student** | **Web Developer** | **AI/ML Enth
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
+![Locomotive Scroll](https://img.shields.io/badge/Locomotive_Scroll-000000?style=for-the-badge&logo=scrollreveal&logoColor=white)
+![ScrollTrigger](https://img.shields.io/badge/ScrollTrigger-FF6C00?style=for-the-badge&logo=scrollreveal&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![Textillate.js](https://img.shields.io/badge/Textillate.js-FF4081?style=for-the-badge&logo=javascript&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+
 
 **Libraries/Tools:**
 - GSAP | Locomotive Scroll | ScrollTrigger | Three.js | Textillate.js | jQuery
@@ -48,14 +54,14 @@ I'm a passionate **Computer Science Student** | **Web Developer** | **AI/ML Enth
 ---
 
 ## 🔗 Connect with Me
-- 🌐 [Portfolio](#) *(Coming soon)*
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
+- 🌐 [Instagram](https://www.instagram.com/ritesh__kr__giri)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ritesh5001)
 - 🌍 [Explore Fusion Instagram](https://www.instagram.com/explore_fusion)
 - 💻 [NextGen Fusion Instagram](https://www.instagram.com/nextgen_fusion)
-- ✍️ [Medium](https://medium.com/@your-username)
+- ✍️ [Medium](https://medium.com/@ritesh5001)
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=wave&color=0f2027&height=150&section=footer)
+![Footer](https://github.com/ritesh5001/ritesh5001/blob/e1485ba0354a5b90ebba58dde50d9eddb471e1d4/git%20background%20footer.jpg)
 
 *Happy Coding! 🚀*
