@@ -6,15 +6,18 @@ I'm a passionate **Computer Science Student** | **Web Developer** | **AI/ML Enth
 
 ---
 
-## 🧑‍💻 About Me
-- 🎓 **B.Tech in Computer Science** at **BBD NIIT, Lucknow**
-- 🛠️ **DSA Enthusiast** with strong C++ skills
-- 🌐 **Freelancer at NextGen Fusion** (Website Development)
-- 🌍 **Founder of Explore Fusion** (Low-budget Travel Agency)
-- 📸 **Photography Enthusiast** | 1st Prize Winner in University Competition
-- 🏍️ **Bike Rider**: Completed Mustang ride in Nepal & planning a Ladakh trip
-- 💪 **Gym Enthusiast** with 170kg deadlift
-- 🌱 Currently learning: **AI/ML, Web Development & DSA**
+
+### 
+
+<h2>🧑‍💻 About Me</h2>
+- 🎓 **B.Tech in Computer Science** at **BBD NIIT, Lucknow<br>
+- 🛠️ **DSA Enthusiast** with strong C++ skills<br>
+- 🌐 **Freelancer at NextGen Fusion** (Website Development)<br>
+- 🌍 **Founder of Explore Fusion** (Low-budget Travel Agency)<br>
+- 📸 **Photography Enthusiast** | 1st Prize Winner in University Competition<br>
+- 🏍️ **Bike Rider**: Completed Mustang ride in Nepal & planning a Ladakh trip<br>
+- 💪 **Gym Enthusiast** with 170kg deadlift<br>
+- 🌱 Currently learning: **AI/ML, Web Development & DSA<br>
 ---
 
 ## 🛠️ Tech Stack
@@ -40,16 +43,23 @@ I'm a passionate **Computer Science Student** | **Web Developer** | **AI/ML Enth
 ---
 
 ## 🌟 Featured Projects
-- 🚗 [Explore Fusion](https://www.instagram.com/explore_fusion) - Low-budget travel agency
+- 🚗 [Explore Fusion](https://www.instagram.com/explore_fusion) - Low-budget & off beat travel agency
 - 💻 **Obys Agency Clone** - Advanced frontend project using GSAP & ScrollTrigger
 - 🌐 **FYLLA-Design-Agency** - A frontend project using SCSS
 - 🧳 **Travel Portfolio** - Showcasing memorable travel experiences
 
 ---
 
-## 📈 GitHub Stats
-![Ritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+<br>
+
+<h2 align="left">Status For Nerds</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ritesh5001&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=moltack&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ritesh5001&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shades-of-purple&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=ritesh5001&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ritesh5001&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
 ---
 
@@ -62,6 +72,9 @@ I'm a passionate **Computer Science Student** | **Web Developer** | **AI/ML Enth
 
 ---
 
-![Footer](https://github.com/ritesh5001/ritesh5001/blob/e1485ba0354a5b90ebba58dde50d9eddb471e1d4/git%20background%20footer.jpg)
-
-*Happy Coding! 🚀*
+<div align="center">
+  <img src="https://github.com/ritesh5001/ritesh5001/blob/e1485ba0354a5b90ebba58dde50d9eddb471e1d4/git%20background%20footer.jpg">
+</div>
+<br>
+<br>
+Simplicity is the soul of efficiency. &nbsp — Austin Freeman
