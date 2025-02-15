@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=wave&color=0f2027&height=200&section=header&text=Welcome%20to%20Ritesh's%20GitHub!&fontColor=ffffff&fontSize=30)
+![Header](https://github.com/ritesh5001/ritesh5001/blob/1fdaa1cafd969cd5f3f3b1a5b3d9d2ec599b75a9/github.jpg)
 
 <h2 align="center">👋 Hi there! I'm Ritesh 🚀</h2>
 
