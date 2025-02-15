@@ -1,16 +1,61 @@
-## Hi there 👋
+![Header](https://capsule-render.vercel.app/api?type=wave&color=0f2027&height=200&section=header&text=Welcome%20to%20Ritesh's%20GitHub!&fontColor=ffffff&fontSize=30)
 
-<!--
-**ritesh5001/ritesh5001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">👋 Hi there! I'm Ritesh 🚀</h2>
 
-Here are some ideas to get you started:
+I'm a passionate **Computer Science Student** | **Web Developer** | **AI/ML Enthusiast** | **Travel Lover** 🌏
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 About Me
+- 🎓 **B.Tech in Computer Science** at **BBD NIIT, Lucknow**
+- 🛠️ **DSA Enthusiast** with strong C++ skills
+- 🌐 **Freelancer at NextGen Fusion** (Website Development)
+- 🌍 **Founder of Explore Fusion** (Low-budget Travel Agency)
+- 📸 **Photography Enthusiast** | 1st Prize Winner in University Competition
+- 🏍️ **Bike Rider**: Completed Mustang ride in Nepal & planning a Ladakh trip
+- 💪 **Gym Enthusiast** with 170kg deadlift
+- 🌱 Currently learning: **AI/ML, Web Development & DSA**
+
+---
+
+## 🛠️ Tech Stack
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+**Libraries/Tools:**
+- GSAP | Locomotive Scroll | ScrollTrigger | Three.js | Textillate.js | jQuery
+- Photoshop | Lightroom | Figma
+
+---
+
+## 🌟 Featured Projects
+- 🚗 [Explore Fusion](https://www.instagram.com/explore_fusion) - Low-budget travel agency
+- 💻 **Obys Agency Clone** - Advanced frontend project using GSAP & ScrollTrigger
+- 🌐 **FYLLA-Design-Agency** - A frontend project using SCSS
+- 🧳 **Travel Portfolio** - Showcasing memorable travel experiences
+
+---
+
+## 📈 GitHub Stats
+![Ritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+
+---
+
+## 🔗 Connect with Me
+- 🌐 [Portfolio](#) *(Coming soon)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
+- 🌍 [Explore Fusion Instagram](https://www.instagram.com/explore_fusion)
+- 💻 [NextGen Fusion Instagram](https://www.instagram.com/nextgen_fusion)
+- ✍️ [Medium](https://medium.com/@your-username)
+
+---
+
+![Footer](https://capsule-render.vercel.app/api?type=wave&color=0f2027&height=150&section=footer)
+
+*Happy Coding! 🚀*
