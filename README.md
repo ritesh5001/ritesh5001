@@ -10,15 +10,15 @@ I'm a passionate **Computer Science Student** | **Web Developer** | **AI/ML Enth
 ### 
 
 <h2>🧑‍💻 About Me</h2>
-- 🎓 **B.Tech in Computer Science** at **BBD NIIT, Lucknow<br>
-- 🛠️ **DSA Enthusiast** with strong C++ skills<br>
-- 🌐 **Freelancer at NextGen Fusion** (Website Development)<br>
-- 🌍 **Founder of Explore Fusion** (Low-budget Travel Agency)<br>
-- 📸 **Photography Enthusiast** | 1st Prize Winner in University Competition<br>
-- 🏍️ **Bike Rider**: Completed Mustang ride in Nepal & planning a Ladakh trip<br>
-- 💪 **Gym Enthusiast** with 170kg deadlift<br>
-- 🌱 Currently learning: **AI/ML, Web Development & DSA<br>
----
+- 🎓 B.Tech in Computer Science at BBD NIIT, Lucknow<br>
+- 🛠️ DSA Enthusiast with strong C++ skills<br>
+- 🌐 Freelancer at NextGen Fusion (Website Development)<br>
+- 🌍 Founder of Explore Fusion (Low-budget Travel Agency)<br>
+- 📸 Photography Enthusiast | 1st Prize Winner in University Competition<br>
+- 🏍️ Bike Rider: Completed Mustang ride in Nepal & planning a Ladakh trip<br>
+- 💪 Gym Enthusiast with 170kg deadlift<br>
+- 🌱 Currently learning: AI/ML, Web Development & DSA<br>
+
 
 ## 🛠️ Tech Stack
 
