@@ -1,4 +1,4 @@
-<div align="center">
+  <div align="center">
   <img src="https://github.com/ritesh5001/ritesh5001/blob/1fdaa1cafd969cd5f3f3b1a5b3d9d2ec599b75a9/github.jpg" width="100%" alt="Header" />
 </div>
 
@@ -28,15 +28,25 @@
 
 ### 🧐 About Me
 
-I am a **Computer Science & Engineering** student at **BBD NIIT, Lucknow** (Class of 2026), currently working as a **Freelance Web Developer** at **NextGen Fusion**. I specialize in architecting responsive, data-driven web applications using the **MERN Stack**, **Next.js**, and **AI/ML** integrations.
+I am a **Computer Science & Engineering** student at **BBD NIIT, Lucknow** (Class of 2026) and a generic problem solver. I bridge the gap between complex backend architectures and immersive frontend experiences.
 
-* 🔭 **Currently working on:** Advanced Microservices & AI-powered Travel Tech.
-* 💼 **Founder:** Explore Fusion (Travel Agency) & NextGen Fusion (Web Dev).
+* 🔭 **Current Focus:** Building microservices-based travel ecosystems and AI-driven chat applications.
+* 💼 **Professional Experience:**
+    * [cite_start]**Freelance Developer (NextGen Fusion):** Deployed **50+ live WordPress sites** and **10+ MERN stack applications**[cite: 19].
+    * **Founder:** Explore Fusion (Travel Agency).
 * 🌱 **Learning:** System Design, Docker, Kubernetes & Advanced AI Agents.
-* ⚡ **Fun Facts:**
+* ⚡ **Personal Interests:**
     * 📸 **Photography:** 1st Prize Winner, Utkarsh 2022.
-    * 🏍️ **Rider:** Completed Mustang (Nepal) ride; planning Ladakh.
+    * 🏍️ **Rider:** Completed Mustang (Nepal) expedition; planning Ladakh.
     * 💪 **Gym Rat:** 170kg Deadlift PR.
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://github.com/ritesh5001/ritesh5001/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
 ---
 
@@ -80,13 +90,15 @@ _Intelligent Chat Assistant_
 
 1.  **Job Ready Cohort (Sheryians Coding School):** Intensive Full-Stack training covering DSA, System Design, and DevOps (Docker, CI/CD).
 2.  **Data Science AI & DSA (ShapeMySkills):** 90-hour training focusing on AI algorithms, ML, and Python.
-3.  **Achievements:** 1st Prize Winner - Utkarsh 2022 Photography Competition; Cleared Indian Air Force Exam.
+3.  **Achievements:** 1st Prize Winner - Utkarsh 2022 Photography Competition; Cleared Indian Air Force Exam; Discipline Team Coordinator.
 
 ---
 
 ### 📊 Github Stats
 
 <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ritesh5001&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=ritesh5001&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=moltack&locale=en&hide_border=true&order=1" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ritesh5001&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=shades-of-purple&hide_border=true&order=2" height="150" alt="languages graph" />
   <br>
