@@ -1,8 +1,28 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0f2027&height=220&section=header&text=Ritesh%20Kumar%20Giri&fontColor=ffffff&fontSize=45&animation=fadeIn&desc=Full-Stack%20Software%20Engineer%20%7C%20AI%20Enthusiast&descAlignY=60&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0f2027&height=220&section=header&text=Ritesh%20Kumar%20Giri&fontColor=ffffff&fontSize=45&animation=fadeIn)
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Software+Engineer;AI+Enthusiast+%7C+Full-Stack+Developer;Building+Scalable+Enterprise+Solutions;Bridging+Backend+Logic+%26+UX" alt="Typing SVG" />
+  </a>
+</div>
 
 <h2 align="center">👋 Welcome to my digital workspace! 🚀</h2>
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=your-username.your-username&left_color=0f2027&right_color=38B2AC" alt="Visitor Badge"/>
+</div>
+<br>
+
 I am a **Software Engineer** specializing in building scalable enterprise solutions, multi-vendor marketplaces, and AI-integrated web applications. I bridge the gap between complex backend architectures and seamless user experiences.
+
+---
+
+## 🏆 GitHub Trophies
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&no-frame=true&row=1&margin-w=15&margin-h=15" alt="Ritesh's Trophies" />
+  </a>
+</div>
 
 ---
 
@@ -58,30 +78,41 @@ I am a **Software Engineer** specializing in building scalable enterprise soluti
 ### 🚢 [MariBiz Global RFQ Marketplace](https://maribiz.ai)
 *A full-stack maritime marketplace for end-to-end RFQ lifecycles.*
 - **Tech:** Next.js, Node.js, Prisma, PostgreSQL, Socket.IO, Resend
-- **Features:** Multi-role access control, admin-intervention quote pipeline, real-time chat/notifications, and detailed engagement analytics.
 
 ### 🛍️ [Tat Vivah Multi-Vendor Platform](https://tatvivahtrends.com)
 *A scalable E-Commerce platform for the wedding industry.*
 - **Tech:** TypeScript, Node.js, PostgreSQL, Prisma, Redis
-- **Features:** Layered monolith architecture, atomic checkout workflows to prevent overselling, and JWT RBAC for Buyers/Sellers/Admins.
 
 ### ✈️ [Explore Fusion](https://explorefusion.online)
 *An AI-powered travel ecosystem built on a microservices architecture.*
 - **Tech:** Node.js, React (Vite), Groq AI SDK, Socket.IO, ImageKit
-- **Features:** Gateway pattern, AI Trip Planner, real-time bidirectional messaging for community interactions, and secure JWT auth.
 
 ### 🤖 [JARVIS AI](https://jarvisai.riteshgiri.dev)
 *A full-stack context-aware chat platform.*
 - **Tech:** Node.js/Express, Google Gemini API, Pinecone
-- **Features:** Long-term conversational memory using vector databases and secure REST APIs for AI interactions.
 
 ---
 
-## 📈 GitHub Activity & Stats
+## 📈 Advanced GitHub Analytics
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark&hide_border=true&area=true" width="100%" alt="Ritesh's Activity Graph" />
+</div>
+<br>
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🎮 Take a Break: Random Dev Joke
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder=true" alt="Jokes Card" />
 </div>
 
 ---
