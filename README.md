@@ -2,19 +2,19 @@
 
 <h2 align="center">👋 Hi there! I'm Ritesh 🚀</h2>
 
-I'm a passionate **Full-Stack Software Engineer** | **AI Enthusiast** | **Freelance Developer** | **Travel Lover** 🌏
+I'm a passionate **Computer Science Student** | **Web Developer** | **AI/ML Enthusiast** | **Travel Lover** 🌏
 
 ---
 
 ## 🧑‍💻 About Me
-- 💼 **Software Engineer** at **CleanShip (MariBiz.ai)** building B2B maritime marketplaces
-- 🎓 **B.Tech in Computer Science** at **BBD NIIT, Lucknow** (Expected 2026)
-- 🌐 **Freelance Web Developer at NextGen Fusion** (MERN & WordPress scaling)
-- 🌍 **Founder of Explore Fusion** (AI-Powered Travel Ecosystem)
+- 🎓 **B.Tech in Computer Science** at **BBD NIIT, Lucknow**
+- 🛠️ **DSA Enthusiast** with strong C++ skills
+- 🌐 **Freelancer at NextGen Fusion** (Website Development)
+- 🌍 **Founder of Explore Fusion** (Low-budget Travel Agency)
 - 📸 **Photography Enthusiast** | 1st Prize Winner in University Competition
 - 🏍️ **Bike Rider**: Completed Mustang ride in Nepal & planning a Ladakh trip
 - 💪 **Gym Enthusiast** with 170kg deadlift
-- 🌱 Tech Focus: **Next.js, Microservices, Docker, & AI Integration (Gemini/Groq)**
+- 🌱 Currently learning: **AI/ML, Web Development & DSA**
 
 ---
 
@@ -27,19 +27,17 @@ I'm a passionate **Full-Stack Software Engineer** | **AI Enthusiast** | **Freela
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
-**Core Technologies & Tools:**
-- TypeScript | React.js | Next.js | Redux Toolkit | Tailwind CSS
-- Node.js | Express.js | Prisma | PostgreSQL | MongoDB | Redis
-- Docker | Kubernetes | CI/CD (GitHub Actions) | Postman | Socket.IO
-- Google Gemini API | Groq SDK | LangChain
+**Libraries/Tools:**
+- GSAP | Locomotive Scroll | ScrollTrigger | Three.js | Textillate.js | jQuery
+- Photoshop | Lightroom | Figma
 
 ---
 
 ## 🌟 Featured Projects
-- 🚢 **MariBiz.ai** - Global Marine Services & RFQ Marketplace using Next.js & Prisma
-- 🛍️ **Tat Vivah** - Multi-Vendor Wedding E-Commerce Platform with atomic checkout workflows
-- 🚗 [Explore Fusion](https://www.instagram.com/explore_fusion) - AI-Powered Travel Microservices App using Groq SDK
-- 🤖 **JARVIS AI** - Full-Stack Context-Aware Chat Platform with Pinecone & Gemini API
+- 🚗 [Explore Fusion](https://www.instagram.com/explore_fusion) - Low-budget travel agency
+- 💻 **Obys Agency Clone** - Advanced frontend project using GSAP & ScrollTrigger
+- 🌐 **FYLLA-Design-Agency** - A frontend project using SCSS
+- 🧳 **Travel Portfolio** - Showcasing memorable travel experiences
 
 ---
 
@@ -60,4 +58,4 @@ I'm a passionate **Full-Stack Software Engineer** | **AI Enthusiast** | **Freela
 
 ![Footer](https://capsule-render.vercel.app/api?type=wave&color=0f2027&height=150&section=footer)
 
-*Happy Coding! 🚀*
+*Happy Coding! 🚀* this is my current readme .md of the guthub and i want to make it for my github account so for that i want to make it here is my resume make the giuthub profile accoring to that and give me the new code and try to make it proffesional and attractive for the Recruiturs 
