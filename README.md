@@ -58,4 +58,4 @@ I'm a passionate **Computer Science Student** | **Web Developer** | **AI/ML Enth
 
 ![Footer](https://capsule-render.vercel.app/api?type=wave&color=0f2027&height=150&section=footer)
 
-*Happy Coding! 🚀* this is my current readme .md of the guthub and i want to make it for my github account so for that i want to make it here is my resume make the giuthub profile accoring to that and give me the new code and try to make it proffesional and attractive for the Recruiturs 
+*Happy Coding! 🚀*
